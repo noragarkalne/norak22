@@ -1,4 +1,6 @@
-<h1>This is a Heading</h1>
+<h1>This is a Heading
+<img src = "https://drive.google.com/file/d/1AfbkPHAtAHlbJEZlwBTSoLkOYAcJkgIt/view?usp=sharing" alt = "a" width = 500 >
+</h1>
 
 <p>🔭 I’m currently working on my skills ralated with programming. <br>
 🌱 I’m currently learning C#, .NET, Relational Databses & SQL. <br>
